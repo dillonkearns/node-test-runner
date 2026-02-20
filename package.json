@@ -49,7 +49,6 @@
     "cross-spawn": "^7.0.6",
     "elm-solve-deps-wasm": "^1.0.2 || ^2.0.0",
     "graceful-fs": "^4.2.10",
-    "split": "^1.0.1",
     "tinyglobby": "^0.2.10",
     "which": "^2.0.2",
     "xmlbuilder": "^15.1.1"
